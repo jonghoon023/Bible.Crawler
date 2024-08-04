@@ -1,0 +1,398 @@
+[
+  {
+    "Name": "창세기",
+    "Abbreviation": "창",
+    "AbbreviationKey": "Gen",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "출애굽기",
+    "Abbreviation": "출",
+    "AbbreviationKey": "Exo",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "레위기",
+    "Abbreviation": "레",
+    "AbbreviationKey": "Lev",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "민수기",
+    "Abbreviation": "민",
+    "AbbreviationKey": "Num",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "신명기",
+    "Abbreviation": "신",
+    "AbbreviationKey": "Deu",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "여호수아",
+    "Abbreviation": "수",
+    "AbbreviationKey": "Jos",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "사사기",
+    "Abbreviation": "삿",
+    "AbbreviationKey": "Jdg",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "룻기",
+    "Abbreviation": "룻",
+    "AbbreviationKey": "Rut",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "사무엘상",
+    "Abbreviation": "삼상",
+    "AbbreviationKey": "1Sa",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "사무엘하",
+    "Abbreviation": "삼하",
+    "AbbreviationKey": "2Sa",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "열왕기상",
+    "Abbreviation": "왕상",
+    "AbbreviationKey": "1Ki",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "열왕기하",
+    "Abbreviation": "왕하",
+    "AbbreviationKey": "2Ki",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "역대상",
+    "Abbreviation": "대상",
+    "AbbreviationKey": "1Ch",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "역대하",
+    "Abbreviation": "대하",
+    "AbbreviationKey": "2Ch",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "에스라",
+    "Abbreviation": "스",
+    "AbbreviationKey": "Ezr",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "느헤미야",
+    "Abbreviation": "느",
+    "AbbreviationKey": "Neh",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "에스더",
+    "Abbreviation": "에",
+    "AbbreviationKey": "Est",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "욥기",
+    "Abbreviation": "욥",
+    "AbbreviationKey": "Job",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "시편",
+    "Abbreviation": "시",
+    "AbbreviationKey": "Psa",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "잠언",
+    "Abbreviation": "잠",
+    "AbbreviationKey": "Pro",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "전도서",
+    "Abbreviation": "전",
+    "AbbreviationKey": "Ecc",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "아가",
+    "Abbreviation": "아",
+    "AbbreviationKey": "Sos",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "이사야",
+    "Abbreviation": "사",
+    "AbbreviationKey": "Isa",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "예레미야",
+    "Abbreviation": "렘",
+    "AbbreviationKey": "Jer",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "예레미야애가",
+    "Abbreviation": "애",
+    "AbbreviationKey": "Lam",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "에스겔",
+    "Abbreviation": "겔",
+    "AbbreviationKey": "Eze",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "다니엘",
+    "Abbreviation": "단",
+    "AbbreviationKey": "Dan",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "호세아",
+    "Abbreviation": "호",
+    "AbbreviationKey": "Hos",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "요엘",
+    "Abbreviation": "욜",
+    "AbbreviationKey": "Joe",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "아모스",
+    "Abbreviation": "암",
+    "AbbreviationKey": "Amo",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "오바댜",
+    "Abbreviation": "옵",
+    "AbbreviationKey": "Oba",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "요나",
+    "Abbreviation": "욘",
+    "AbbreviationKey": "Jon",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "미가",
+    "Abbreviation": "미",
+    "AbbreviationKey": "Mic",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "나훔",
+    "Abbreviation": "나",
+    "AbbreviationKey": "Nah",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "하박국",
+    "Abbreviation": "합",
+    "AbbreviationKey": "Hab",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "스바냐",
+    "Abbreviation": "습",
+    "AbbreviationKey": "Zep",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "학개",
+    "Abbreviation": "학",
+    "AbbreviationKey": "Hag",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "스가랴",
+    "Abbreviation": "슥",
+    "AbbreviationKey": "Zec",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "말라기",
+    "Abbreviation": "말",
+    "AbbreviationKey": "Mal",
+    "Testament": "TheOldTestament"
+  },
+  {
+    "Name": "마태복음",
+    "Abbreviation": "마",
+    "AbbreviationKey": "Mat",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "마가복음",
+    "Abbreviation": "막",
+    "AbbreviationKey": "Mar",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "누가복음",
+    "Abbreviation": "눅",
+    "AbbreviationKey": "Luk",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "요한복음",
+    "Abbreviation": "요",
+    "AbbreviationKey": "Joh",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "사도행전",
+    "Abbreviation": "행",
+    "AbbreviationKey": "Act",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "로마서",
+    "Abbreviation": "롬",
+    "AbbreviationKey": "Rom",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "고린도전서",
+    "Abbreviation": "고전",
+    "AbbreviationKey": "1Co",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "고린도후서",
+    "Abbreviation": "고후",
+    "AbbreviationKey": "2Co",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "갈라디아서",
+    "Abbreviation": "갈",
+    "AbbreviationKey": "Gal",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "에베소서",
+    "Abbreviation": "엡",
+    "AbbreviationKey": "Eph",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "빌립보서",
+    "Abbreviation": "빌",
+    "AbbreviationKey": "Phi",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "골로새서",
+    "Abbreviation": "골",
+    "AbbreviationKey": "Col",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "데살로니가전서",
+    "Abbreviation": "살전",
+    "AbbreviationKey": "1Th",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "데살로니가후서",
+    "Abbreviation": "살후",
+    "AbbreviationKey": "2Th",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "디모데전서",
+    "Abbreviation": "딤전",
+    "AbbreviationKey": "1Ti",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "디모데후서",
+    "Abbreviation": "딤후",
+    "AbbreviationKey": "2Ti",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "디도서",
+    "Abbreviation": "딛",
+    "AbbreviationKey": "Tit",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "빌레몬서",
+    "Abbreviation": "몬",
+    "AbbreviationKey": "Phm",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "히브리서",
+    "Abbreviation": "히",
+    "AbbreviationKey": "Heb",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "야고보서",
+    "Abbreviation": "약",
+    "AbbreviationKey": "Jam",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "베드로전서",
+    "Abbreviation": "벧전",
+    "AbbreviationKey": "1Pe",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "베드로후서",
+    "Abbreviation": "벧후",
+    "AbbreviationKey": "2Pe",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "요한1서",
+    "Abbreviation": "요1",
+    "AbbreviationKey": "1Jn",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "요한2서",
+    "Abbreviation": "요2",
+    "AbbreviationKey": "2Jn",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "요한3서",
+    "Abbreviation": "요3",
+    "AbbreviationKey": "3Jn",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "유다서",
+    "Abbreviation": "유",
+    "AbbreviationKey": "Jud",
+    "Testament": "TheNewTestament"
+  },
+  {
+    "Name": "요한계시록",
+    "Abbreviation": "계",
+    "AbbreviationKey": "Rev",
+    "Testament": "TheNewTestament"
+  }
+]
