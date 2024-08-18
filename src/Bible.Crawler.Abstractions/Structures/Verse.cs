@@ -5,8 +5,8 @@ namespace Bible.Crawler.Abstractions.Structures;
 /// </summary>
 /// <param name="chapter"> 성경의 장 정보를 가지고 있는 <see cref="Structures.Chapter" /> 구조체입니다. </param>
 /// <param name="value"> 성경의 절 정보입니다. </param>
-/// <param name="paragraph"> 성경 구절입니다. </param>
-public readonly struct Verse(Chapter chapter, int value, string paragraph) : IEquatable<Verse>
+/// <param name="text"> 성경 구절입니다. </param>
+public readonly struct Verse(Chapter chapter, int value, string text) : IEquatable<Verse>
 {
     /// <summary>
     /// 성경 장 정보를 가지고 있는 <see cref="Structures.Chapter" /> 구조체를 가져옵니다.
@@ -21,7 +21,7 @@ public readonly struct Verse(Chapter chapter, int value, string paragraph) : IEq
     /// <summary>
     /// 성경 구절을 가져옵니다.
     /// </summary>
-    public string Paragraph => paragraph;
+    public string Text => text;
 
     /// <inheritdoc cref="IEquatable{T}.Equals(T)" />
     public bool Equals(Verse other)
@@ -37,7 +37,7 @@ public readonly struct Verse(Chapter chapter, int value, string paragraph) : IEq
             return 
                 Chapter == otherVerse.Chapter && 
                 Value == otherVerse.Value && 
-                Paragraph == otherVerse.Paragraph;
+                Text == otherVerse.Text;
         }
 
         return false;

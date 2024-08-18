@@ -75,9 +75,9 @@ internal sealed partial class GodpiaCrawler(VersionType version) : BibleCrawlerB
             IEnumerable<string> innerTexts = verseNode.ChildNodes.Where(node => !node.HasClass(verseNumberClass)).Select(node => node.InnerText);
 
             int verseNumber = Convert.ToInt32(verseNumberString, CultureInfo.InvariantCulture);
-            string paragraph = string.Concat(innerTexts).Trim();
+            string text = string.Concat(innerTexts).Trim();
 
-            yield return new Verse(chapter, verseNumber, paragraph);
+            yield return new Verse(chapter, verseNumber, text);
         }
     }
 
