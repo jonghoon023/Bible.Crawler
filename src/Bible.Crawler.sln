@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible.Crawler.Models", "Bib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible.Crawler", "Bible.Crawler\Bible.Crawler.csproj", "{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8862EE94-974A-4AAE-8E36-EE232842396B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible.Crawler.Tests", "..\tests\Bible.Crawler.Tests\Bible.Crawler.Tests.csproj", "{E5B012AD-9B83-4E1B-80DA-CE09560AB9D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +36,15 @@ Global
 		{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B012AD-9B83-4E1B-80DA-CE09560AB9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B012AD-9B83-4E1B-80DA-CE09560AB9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B012AD-9B83-4E1B-80DA-CE09560AB9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B012AD-9B83-4E1B-80DA-CE09560AB9D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5B012AD-9B83-4E1B-80DA-CE09560AB9D3} = {8862EE94-974A-4AAE-8E36-EE232842396B}
 	EndGlobalSection
 EndGlobal
