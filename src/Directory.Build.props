@@ -33,6 +33,7 @@
 
 	<PropertyGroup>
 		<Nullable>enable</Nullable>
+		<LangVersion>8.0</LangVersion>
 		<Deterministic>true</Deterministic>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 		<WarningLevel>5</WarningLevel>

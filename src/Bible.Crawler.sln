@@ -8,7 +8,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{E40B993B
 		Directory.Build.props = Directory.Build.props
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible.Crawler.Abstractions", "Bible.Crawler.Abstractions\Bible.Crawler.Abstractions.csproj", "{39F339C0-0FC6-4510-BFFF-86D025E675EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible.Crawler.Models", "Bible.Crawler.Models\Bible.Crawler.Models.csproj", "{1912596B-9F39-4A77-9D71-E0D979B3ADC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible.Crawler", "Bible.Crawler\Bible.Crawler.csproj", "{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F339C0-0FC6-4510-BFFF-86D025E675EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F339C0-0FC6-4510-BFFF-86D025E675EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F339C0-0FC6-4510-BFFF-86D025E675EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F339C0-0FC6-4510-BFFF-86D025E675EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1912596B-9F39-4A77-9D71-E0D979B3ADC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1912596B-9F39-4A77-9D71-E0D979B3ADC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1912596B-9F39-4A77-9D71-E0D979B3ADC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1912596B-9F39-4A77-9D71-E0D979B3ADC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A201ADB0-4CB0-49D5-A76D-8063AD89CF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
